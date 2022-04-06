@@ -1,4 +1,4 @@
-## Tracer
+## Tracer [[repo](https://github.com/Teichlab/tracer)]
 **Purpose**:  Reconstruction of T cell receptor sequences from single-cell RNA-seq data.
 
 **Location**: /work/greenbaum/software/tracer
