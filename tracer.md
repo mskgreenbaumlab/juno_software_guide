@@ -1,7 +1,9 @@
-## Tracer [[repo](https://github.com/Teichlab/tracer)]
+## Tracer [[github](https://github.com/Teichlab/tracer)]
 **Purpose**:  Reconstruction of T cell receptor sequences from single-cell RNA-seq data.
 
-**Location**: /work/greenbaum/software/tracer
+**Location**: 
+
+`/work/greenbaum/software/tracer`
 
 **Usage:**
 
@@ -11,8 +13,8 @@
 
 3. Execute run_tracer.sh with singularity image using following commands:
 
-module load singularity/3.7.1
-singularity exec --bind /work/greenbaum /work/greenbaum/software/images/tracer_latest.sif /bin/sh /work/greenbaum/software/tracer/run_tracer.sh
+`module load singularity/3.7.1`
+`singularity exec --bind /work/greenbaum /work/greenbaum/software/images/tracer_latest.sif /bin/sh /work/greenbaum/software/tracer/run_tracer.sh`
 
 **Results:**
 
