@@ -14,6 +14,7 @@
 3. Execute run_tracer.sh with singularity image using following commands:
 
 `module load singularity/3.7.1`
+
 `singularity exec --bind /work/greenbaum /work/greenbaum/software/images/tracer_latest.sif /bin/sh /work/greenbaum/software/tracer/run_tracer.sh`
 
 **Results:**
