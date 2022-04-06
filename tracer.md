@@ -1,6 +1,8 @@
 ## Tracer
 **Purpose**:  Reconstruction of T cell receptor sequences from single-cell RNA-seq data.
+
 **Location**: /work/greenbaum/software/tracer
+
 **Usage:**
 
 1. Modify tracer.conf based on your needs. I have specified dependencies executable based on their location on juno server.
